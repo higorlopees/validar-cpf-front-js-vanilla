@@ -1,4 +1,5 @@
 const URL="https://validar-cpf-higor.herokuapp.com/validacpf?cpf=";
+
 function validar(){
 
 	var txtCPF = document.getElementById("txtCpf").value;
